@@ -4,7 +4,7 @@
 
 ## 📥 Tải về & Cài đặt
 
-1. Trên điện thoại Android, mở mục **[Releases](../../releases/latest)** và tải file  mới nhất.
+1. Trên điện thoại Android, mở mục **[Releases](../../releases/latest)** và tải file APK mới nhất.
 2. Mở file vừa tải. Nếu máy hỏi *"Cài đặt ứng dụng không rõ nguồn gốc?"* → chọn **Cài đặt / Cho phép từ nguồn này** (đây là app cài ngoài Google Play nên Android luôn hỏi — bình thường).
 3. Mở app **HANDICO 30** → đăng nhập bằng **số điện thoại được cấp** → nhập mã OTP.
 
